@@ -1,0 +1,16 @@
+{
+  "name": "trucker-find",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trucker Find mobile web app for drivers with Supabase authentication, saved places, profile photos, location services, and Google Maps external navigation.",
+  "scripts": {
+    "start": "npx serve . -l 3000"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
