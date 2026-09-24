@@ -1,2 +1,0 @@
-# Trucker-find-api
-Api
