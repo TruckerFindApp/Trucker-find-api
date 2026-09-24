@@ -1,0 +1,8 @@
+{
+  "name": "Trucker Find",
+  "short_name": "Trucker Find",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111c",
+  "theme_color": "#07111c"
+}
